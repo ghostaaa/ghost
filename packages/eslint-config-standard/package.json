@@ -1,0 +1,28 @@
+{
+  "name": "ghost-eslint-config-standard",
+  "version": "1.0.0",
+  "description": "eslint-config-standard for ghost",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostaaa/ghost.git"
+  },
+  "keywords": [
+    "ghost"
+  ],
+  "author": "godkun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghostaaa/ghost/issues"
+  },
+  "dependencies": {
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}

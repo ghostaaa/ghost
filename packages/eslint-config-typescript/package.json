@@ -1,0 +1,25 @@
+{
+  "name": "ghost-eslint-config-typescript",
+  "version": "1.0.0",
+  "description": "eslint-config-typescript for ghost",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostaaa/ghost.git"
+  },
+  "keywords": [
+    "ghost"
+  ],
+  "author": "godkun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghostaaa/ghost/issues"
+  },
+  "dependencies": {
+    "eslint-plugin-typescript": "^0.14.0",
+    "typescript-eslint-parser": "^21.0.2"
+  }
+}

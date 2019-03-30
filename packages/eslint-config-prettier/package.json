@@ -1,0 +1,26 @@
+{
+  "name": "ghost-eslint-config-prettier",
+  "version": "1.0.0",
+  "description": "eslint-config-prettier for ghost",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostaaa/ghost.git"
+  },
+  "keywords": [
+    "ghost"
+  ],
+  "author": "godkun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghostaaa/ghost/issues"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "prettier": "^1.15.3"
+  }
+}
