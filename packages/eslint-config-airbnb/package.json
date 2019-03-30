@@ -1,11 +1,26 @@
 {
   "name": "ghost-eslint-config-airbnb",
-  "version": "0.1.7",
-  "description": "",
+  "version": "1.0.0",
+  "description": "eslint-config-airbnb for ghost",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "publishConfig": {
+    "access": "public"
   },
-  "author": "yangkun <godkun666@126.com>",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostaaa/ghost.git"
+  },
+  "keywords": [
+    "ghost"
+  ],
+  "author": "god kun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghostaaa/ghost/issues"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-import-resolver-webpack": "^0.10.1",
+    "eslint-plugin-import": "^2.14.0"
+  }
 }
