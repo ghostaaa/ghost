@@ -1,6 +1,6 @@
 {
   "name": "ghost-eslint-config-airbnb",
-  "version": "1.0.0",
+  "version": "0.1.8",
   "description": "eslint-config-airbnb for ghost",
   "main": "index.js",
   "publishConfig": {
